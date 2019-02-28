@@ -19,6 +19,5 @@
 7. Download the "en" module of spacy.
 	python3 -m spacy download en
 
-
-
-
+8. Run the nltk_download.py file.
+	python3 nltk_download.py
