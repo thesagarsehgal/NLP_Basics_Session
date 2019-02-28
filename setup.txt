@@ -1,0 +1,24 @@
+1. Install python3 in your system.
+
+2. Install pip in your system.
+	sudo apt-get install python3-pip
+	
+3. Install the virtualenv module in your system.
+	python3 -m pip install virtualenv
+
+4. Make a virtualenviornment named 'practise' or any other name. 
+	python3 -m virtualenv practise
+
+5. Activate the 'practise' virtual enviornment. 
+	(for linux) source practise/bin/activate 
+	(for windows) practise/scripts/activate
+
+6. Install the dependencies in your system from requirements.txt .
+	python3 -m pip install -r requirements.txt
+
+7. Download the "en" module of spacy.
+	python3 -m spacy download en
+
+
+
+

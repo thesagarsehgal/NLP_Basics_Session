@@ -1,0 +1,10 @@
+Topics to be covered:-
+Tokenization
+Stemming
+Lemmatization
+Stop Words Removal
+Difference b/w Lemmatization and Stemming
+POS Tagging
+NER
+TF-IDF
+Building WordCloud
