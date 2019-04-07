@@ -1,5 +1,6 @@
 # NLP Basics Session
-These are the details of the session on Basics of Natural Language Processing and Information Retrival
+
+These are the details of the session on Basics of Natural Language Processing and Information Retrival taken by me at IIIT Sri City as a part of Gradient (Programming Club of IIIT Sri City).
 Topics covered in the session are basically modules from NLTK and Spacy.
 
 Please setup your system before the session by installing all the things as in [setup.txt](https://github.com/sagar-sehgal/NLP_Basics_Session/blob/master/setup.txt) file
